@@ -1,0 +1,19 @@
+{
+ "name": "nj_ap1",
+ "version": "1.0.0",
+ "description": "Simple sample node js app",
+ "main": "index.js",
+ "scripts": {
+  "build": "npm install",
+  "start": "node index.js"
+ },
+ "author": "cenkms",
+ "dependencies": {
+  "express": "^4.16.4"
+ },
+ "license": "ISC",
+ "repository": {
+  "type": "git",
+  "url": "git://github.com/cenkms/docker-test.git"
+}
+}
